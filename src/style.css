@@ -1,0 +1,26 @@
+  
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.button {
+    margin:1rem;
+    font-size: 15px;
+    padding: 0.5rem;
+    height: 35px;
+    font-weight: bold;
+}
+
+.list-div {
+    background-color: rgba(133, 133, 133, 0.151);
+    margin: 1vw auto;
+    border-radius: 4px;
+    width: 60%;
+    height: 40px;
+    padding: 12px;
+    text-align: left;
+    font-size: larger;
+  }
